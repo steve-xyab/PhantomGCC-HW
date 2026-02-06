@@ -1,0 +1,12 @@
+20250324
+
+Adjusted right joystick position: PCB moved up 0.44mm; physical component moved right 0.44mm;
+Removed PhobVision interface;
+Changed version number to Ver2.2;
+
+20250329
+
+Changed the right joystick's open slot to a 1.8mm closed circular hole as a positioning hole;
+Adjusted right joystick position: PCB moved left 0.25mm; physical component moved up 0.25mm;
+Adjusted right joystick position: PCB moved up 0.15mm; physical component moved right 0.15mm;
+Changed version number to Ver2.3;
